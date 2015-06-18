@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Vyxia
+name: Void-Inc
 
 # Short bio or description (displayed in the header)
 description: A game development student!
@@ -19,10 +19,10 @@ avatar: https://raw.githubusercontent.com/void-inc/void-inc.github.io/master/ima
 footer-links:
   dribbble: 
   email: 
-  facebook: 
+  facebook: voidincgames
   flickr: 
   github: 
-  instagram: _vyxia
+  instagram: void_inc
   linkedin: 
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
