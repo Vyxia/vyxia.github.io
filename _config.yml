@@ -4,7 +4,7 @@
 
 # Name of your site (displayed in the header)
 <<<<<<< HEAD
-name: Void-Inc
+name: vyxia
 =======
 name: Vyxiaz
 >>>>>>> origin/master
@@ -23,10 +23,10 @@ avatar: https://raw.githubusercontent.com/void-inc/void-inc.github.io/master/ima
 footer-links:
   dribbble: 
   email: 
-  facebook: voidincgames
+  facebook: 
   flickr: 
   github: 
-  instagram: void_inc
+  instagram: vyxia
   linkedin: 
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
