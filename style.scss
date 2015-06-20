@@ -7,6 +7,10 @@
 
 @import "_reset";
 @import "_variables";
+@font-face {
+    font-family: pixely;
+    src: url(/font/minecraft.ttf);
+}
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -19,7 +23,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 pixely;
   color: $darkGray;
 }
 
