@@ -14,13 +14,25 @@
 /* BASE RULES */
 /**************/
 
+
+
+
+@font-face {
+    font-family: 'pixel';
+    src: url('pixel.eot');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
 html {
   font-size: 100%;
 }
 
 body {
   background: #7254BF;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $pixel;
   color: $white;
 }
 
