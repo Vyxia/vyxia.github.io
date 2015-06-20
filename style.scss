@@ -12,18 +12,7 @@
 
 /**************/
 /* BASE RULES */
-/**************/
-
-
-
-
-@font-face {
-    font-family: 'pixel';
-    src: url('pixel.eot');
-    font-weight: normal;
-    font-style: normal;
-
-}
+/*************/
 
 
 html {
@@ -45,7 +34,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: #C4C6CC;
   font-weight: bold;
 
   line-height: 1.7;
