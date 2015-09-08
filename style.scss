@@ -22,7 +22,7 @@ html {
 body {
   background: #8c6c95;
   font: 18px/1.4 $helveticaNeue;
-  color: #d1cdd2;
+  color: #746f75;
 }
 
 .container {
@@ -34,7 +34,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: #d1cdd2;
+  color: #746f75;
   font-weight: bold;
 
   line-height: 1.7;
@@ -194,7 +194,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #746f75;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -204,7 +204,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: #746f75;
   font-size: 16px;
 
   @include mobile {
@@ -227,7 +227,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: #746f75;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -256,9 +256,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 2px solid #746f75;
     padding: 0.1em 1em;
-    color: $gray;
+    color: #746f75;
     font-size: 22px;
     font-style: italic;
   }
@@ -277,7 +277,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: #746f75;
 }
 
 footer {
